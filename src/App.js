@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1 className='text-white'>  Report for</h1>
+      <h1 className='bg-red-100 text-white'>  Report for</h1>
       Jeremy Robson
 
       Daily
